@@ -1,10 +1,10 @@
 # Dev7studios Meta Box Framework
 
-A WordPress meta box framework.
+A simple WordPress meta box framework for creating custom meta boxes in your themes and plugins.
 
 ## Usage
 
-1. Download `dev7_meta_box_framework.php` to your theme/plugin
+1. Download `dev7_meta_box_framework.php` to your theme/plugin folder
 2. Open up functions.php (or equivelant plugin file) and do the following:
 
 ```php
@@ -113,4 +113,4 @@ Possible field types are:
 
 The Dev7studios Meta Box Framework was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from [Dev7studios](http://dev7studios.com).
 
-Please contribute by [reporting bugs](Dev7studios-Meta-Box-Framework/issues) and submitting [pull requests](Dev7studios-Meta-Box-Framework/pulls).
+Please contribute by reporting bugs and submitting pull requests. Released under the MIT license.
